@@ -1,2 +1,2 @@
 # MarkovChainSimulation
-An easy simulation of both discrete and continuous markov chain 
+An easy simulation of both three-state discrete and continuous markov chain 
